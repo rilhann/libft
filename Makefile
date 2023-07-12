@@ -1,6 +1,6 @@
 NAME	=	libft
 CC		=	gcc
-INCLUDE	=	libft.h
+INCLUDE	=	libft.h 
 CFLAGS	=	-Wall -Werror -Wextra
 ARFLAGS	=	-rcs
 RM		=	rm -rf
